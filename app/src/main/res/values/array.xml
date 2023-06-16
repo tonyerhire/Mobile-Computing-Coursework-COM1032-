@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="places_array">
+        <item>England</item>
+        <item>France</item>
+        <item>America</item>
+        <item>Tokyo</item>
+        <item>Nigeria</item>
+        <item>Germany</item>
+        <item>london</item>
+        <item>dubai</item>
+        <item>Guildford</item>
+        <item>England</item>
+        <item>China</item>
+        <item>Brazil</item>
+        <item>Italy</item>
+        <item>Wales</item>
+
+
+    </string-array>
+</resources>
